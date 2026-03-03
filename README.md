@@ -89,7 +89,6 @@ Optional operational components can be installed inside the cluster when additio
 
 Download the latest release:
 
-https://github.com/proofops/kubescope/releases
 
 Available builds:
 
