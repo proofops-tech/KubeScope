@@ -93,7 +93,6 @@ Download the latest release:
 Available builds:
 
 • macOS  
-• Linux  
 • Windows  
 
 KubeScope is distributed as a **single binary**.
