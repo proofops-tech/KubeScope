@@ -1,6 +1,6 @@
 # KubeScope
 
-KubeScope is a lightweight Kubernetes operations IDE designed for DevOps engineers and platform teams.
+KubeScope is a lightweight Kubernetes operations toolkit designed for DevOps engineers and platform teams.
 
 It provides a fast and simple interface to inspect clusters, troubleshoot workloads, and perform operational tasks such as etcd maintenance directly from your desktop.
 
